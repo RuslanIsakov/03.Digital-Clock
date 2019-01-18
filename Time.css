@@ -1,0 +1,49 @@
+﻿body {
+    font-family: 'digital';
+    color: #09FF00;
+    background-color: black; 
+    /*background: url('c4a7702b77f6221d1c2cd8553dcc4cde.jpg') no-repeat center center fixed;
+    background-size: cover; */
+    }
+
+
+@font-face{
+    font-family:'digital';
+    src: url('fonts/digital-7/digital-7.ttf');
+   }
+
+
+#clock {
+    margin-top:250px ;
+    font-size: 300px;
+    font-family: digital;
+    opacity: 100;
+    text-align: center;
+    /*text-shadow: green 0 0 40px; */
+    text-shadow: green -1px -1px 0px, 
+                 green 5px 5px 0; 
+}
+.container {
+    text-align: center ;
+    margin-top: -320px ;
+    font-size: 60px;
+    font-family: digital;
+    opacity: 100;
+    /*text-shadow: green 0 0 40px; */
+    text-shadow:  green -1px -1px 150px, 
+                    green 3px 3px 0;
+}
+
+#color {
+    font-size: 0px;
+}
+
+
+
+
+
+/*
+font-weight: 300;
+    font-size: 100px;
+    margin-top: 650px;
+    margin-left: 40px;*/
